@@ -1,0 +1,33 @@
+header{
+    background-color:black;
+    text-align:center;
+    margin: 5px;
+    padding: 10px;
+    color: white;
+    border-radius: 30px;
+    border: 3px solid white;
+}
+
+.hello{
+    width: 700px;
+    margin:10px auto;
+    padding: 20px;
+    background-color: whitesmoke;
+    border-radius: 30px;
+    border: 3px solid lightskyblue;
+}
+body{
+    background-color: darkcyan;
+}
+
+.container{
+    background-color: white;
+    padding: 20px;
+    width: 1000px;
+    margin: 10px auto;
+    border-radius: 30px;
+    border: 3px solid black;
+}
+p{
+    font-family: 'Gloria Hallelujah', cursive;
+}
